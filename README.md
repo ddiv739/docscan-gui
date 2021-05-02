@@ -1,4 +1,4 @@
-# docscangui
+# docscangui with PySimpleGUI and OpenCV
 
 PySimpleGUI self-learning exercise for combination with OpenCV and UI updates.
 
