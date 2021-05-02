@@ -5,7 +5,7 @@ PySimpleGUI self-learning exercise for combination with OpenCV and UI updates.
 Requires OpenCV-Python, Pillow, PySimpleGUI, Numpy
 
 A perspective mapping tool used to visualise how inverse perspective mapping takes place through a realtime output corresponding to input movement.
-Could also be used as a quick 'CamScan' type tool as required - output images are returned at full resolution unliked scaled UI output however it has
+Could also be used as a quick 'CamScan' type tool as required - output images are returned at full resolution unlike the scaled UI output however it has
 not been tested robustly so better off as a demo application.
 
 
