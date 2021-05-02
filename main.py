@@ -43,7 +43,7 @@ def translate_corner(graph,fig,end_point):
 
 def apply_ipm(cap, points):
     #This portion was directly inspired from https://www.pyimagesearch.com/2014/05/05/building-pokedex-python-opencv-perspective-warping-step-5-6/
-    #Dr. Rosebeck always has the best explanations of exactly what his code does.
+    #Dr. Rosebrock always has the best explanations of exactly what his code does.
 
     #Convert our points dict/list to a numpy array
     #NOTE: probably fine to leave dtype as int but keep consistent with dst for now
